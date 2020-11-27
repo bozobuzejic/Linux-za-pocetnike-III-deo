@@ -1,4 +1,4 @@
- # Linux-za-početnike III deo
+ # Linux za početnike III deo
 
 Kurs za totalne početnike
 
