@@ -6,7 +6,7 @@ Tokom kursa za Linux administratore, održanog na ETF Beograd, od februara do se
 
 Sve opisano u dokumentima je isprobano, ili na realnim mašinama ili na virtuelnim mašinama kreiranim sa VirtualBox-om, u mreži ili van mreže.
 
-Većina prikazanih aktivnosti, postupaka i komandi je primenjena na kursu i za njih je zaslužan Srdjan Popovic.
+Većina prikazanih aktivnosti, postupaka i komandi je primenjena na kursu i za njih je zaslužan Srđan Popović.
 
 Mnoge prikazane komande su pronađene u raznim tutorijalima nađenim na internetu (kopije prilagođene konkretnim primerima datim u dokumentima).
 
