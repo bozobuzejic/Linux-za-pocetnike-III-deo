@@ -16,6 +16,8 @@ NAPOMENA:
  
 *Potrebno je kreirati folder Linux-kurs i u njega smestiti pojedinačno sve snimljene foldere sa dokumentima iz svakog od 4 velika direktorijuma (unutar foldera Linux_kurs naći će se pod-folderi poređani po logičkim celinama).
 
-*U folder Linux-kurs snimiti i fajl SADRŽAJ.md koji sadrži linkove ka svakom direktorijumu i dokumentu ponaosob.
+*U folder Linux-kurs snimiti i fajl SADRŽAJ.md koji sadrži linkove koji vode ka svakom direktorijumu i dokumentu ponaosob.
+
+*Fajl SADRŽAJ-GitHub(links).md se ne mora kopirati. On sadrži linkove koji vode ka svakom pojedinačnom fajlu postavljenom na https://github.com/bozobuzejic?tab=projects
 
 *Preporuka: Držati se datog redosleda.
